@@ -1,10 +1,15 @@
 ---
-title: "Three-Squared"
+title: "Habits"
+author: Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra
+date: September 14, 2026
+output: revealjs::revealjs_presentation
+
 ---
 
-This is a Quarto website.
+# LAB 3 - 521
+Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra
 
-1.  What made you apply to MDS?
+# What made you apply to MDS?
 
 Answers:
 
