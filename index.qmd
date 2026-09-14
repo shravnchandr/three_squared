@@ -1,12 +1,16 @@
 ---
+<<<<<<< HEAD
 title: "Project-Group"
+=======
+title: "Group Project - Slides"
+>>>>>>> ae5bc81aa72e7f2a524c1ed8e3e483becd0617ff
 author: Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra
 date: September 14, 2026
 output: revealjs::revealjs_presentation
-
 ---
 
 # LAB 3 - 521
+
 Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra
 
 # What made you apply to MDS?
