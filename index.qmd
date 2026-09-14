@@ -1,41 +1,25 @@
----
+------------------------------------------------------------------------
 
-title: "Group Project - Slides"
-author: Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra
-date: September 14, 2026
-output: revealjs::revealjs_presentation
----
+title: "Group Project - Slides" author: Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra date: September 14, 2026 output: revealjs::revealjs_presentation ---
 
 # LAB 3 - 521
 
 Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra
 
-# What made you apply to MDS?
-
-Answers:
-
--- Afrah: Wanted to learn about data transformations and to understand and learn about usage of data to get business insights.
-
---Atinuke:
-
--- Sravan:
-
 ## 01. What made you apply to MDS?
 
-- Shravan says, 
-- Afrah says,
+- Shravan says,
+- Afrah says, Wanted to learn about data transformations and to understand and learn about usage of data to get business insights.
 - Atinuke says, "I applied to MDS to gain skills to manipulate and make sense out of data that can be applied in the real world!"
 
 ## 02. What is a skill you have that has nothing to do with data science?
 
-- Shravan says, 
-- Afrah says,
+- Shravan says,
+- Afrah says, I can play 8 ball pool and Table tennis. 
 - Atinuke says, "I'm able to play multiple musical instruments!"
 
 ## 03. What is the first piece of code you ever wrote, and what did it do?
 
-- Shravan says, 
-- Afrah says,
+- Shravan says,
+- Afrah says, The first piece of code I wrote was in C language "Hello Afrah".
 - Atinuke says, "The first piece of code I ever wrote was a print with Hello World! which simply printed Hello World"
-
-
