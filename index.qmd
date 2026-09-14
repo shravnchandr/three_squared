@@ -3,6 +3,7 @@ title: "Group Project - Slides"
 author: Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra 
 date: September 14, 2026 
 output: revealjs::revealjs_presentation
+format: revealjs
 ---
 
 # LAB 3 - 521
