@@ -1,5 +1,6 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: "Group Project - Slides"
 author: Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra
 date: September 14, 2026
@@ -20,13 +21,14 @@ Answers:
 
 -- Sravan:
 =======
+=======
+>>>>>>> 097f2fe4c07ca68503429ee075d33057b4269aeb
 title: "Three-Squared"
-author: "Shravan, Afrah, Atinuke"
-format: revealjs
 ---
 
-# Three Questions, Three People
+This is a Quarto website.
 
+<<<<<<< HEAD
 ## 01. What made you apply to MDS?
 
 - Shravan says, 
@@ -45,3 +47,6 @@ format: revealjs
 - Afrah says,
 - Atinuke says,
 >>>>>>> bc9adc8e6d05123505e1d9ee16d1ce306581b059
+=======
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+>>>>>>> 097f2fe4c07ca68503429ee075d33057b4269aeb
