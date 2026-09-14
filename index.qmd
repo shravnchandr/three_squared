@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "Group Project - Slides"
 author: Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra
 date: September 14, 2026
@@ -18,3 +19,29 @@ Answers:
 --Atinuke:
 
 -- Sravan:
+=======
+title: "Three-Squared"
+author: "Shravan, Afrah, Atinuke"
+format: revealjs
+---
+
+# Three Questions, Three People
+
+## 01. What made you apply to MDS?
+
+- Shravan says, 
+- Afrah says,
+- Atinuke says,
+
+## 02. What is a skill you have that has nothing to do with data science?
+
+- Shravan says, 
+- Afrah says,
+- Atinuke says,
+
+## 03. What is the first piece of code you ever wrote, and what did it do?
+
+- Shravan says, 
+- Afrah says,
+- Atinuke says,
+>>>>>>> bc9adc8e6d05123505e1d9ee16d1ce306581b059

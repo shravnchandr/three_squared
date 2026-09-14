@@ -7,10 +7,32 @@
     "text": "About this site"
   },
   {
+<<<<<<< HEAD
     "objectID": "index.html",
     "href": "index.html",
     "title": "Group Project - Slides",
     "section": "",
     "text": "LAB 3 - 521\nAtinuke Wole-Ilori, Afrah Zilani & Shravan Chandra\n\n\nWhat made you apply to MDS?\nAnswers:\n– Afrah: Wanted to learn about data transformations and to understand and learn about usage of data to get business insights.\n–Atinuke:\n– Sravan:"
+=======
+    "objectID": "index.html#what-made-you-apply-to-mds",
+    "href": "index.html#what-made-you-apply-to-mds",
+    "title": "Three-Squared",
+    "section": "01. What made you apply to MDS?",
+    "text": "01. What made you apply to MDS?\n\nShravan says,\nAfrah says,\nAtinuke says,"
+  },
+  {
+    "objectID": "index.html#what-is-a-skill-you-have-that-has-nothing-to-do-with-data-science",
+    "href": "index.html#what-is-a-skill-you-have-that-has-nothing-to-do-with-data-science",
+    "title": "Three-Squared",
+    "section": "02. What is a skill you have that has nothing to do with data science?",
+    "text": "02. What is a skill you have that has nothing to do with data science?\n\nShravan says,\nAfrah says,\nAtinuke says,"
+  },
+  {
+    "objectID": "index.html#what-is-the-first-piece-of-code-you-ever-wrote-and-what-did-it-do",
+    "href": "index.html#what-is-the-first-piece-of-code-you-ever-wrote-and-what-did-it-do",
+    "title": "Three-Squared",
+    "section": "03. What is the first piece of code you ever wrote, and what did it do?",
+    "text": "03. What is the first piece of code you ever wrote, and what did it do?\n\nShravan says,\nAfrah says,\nAtinuke says,"
+>>>>>>> bc9adc8e6d05123505e1d9ee16d1ce306581b059
   }
 ]
