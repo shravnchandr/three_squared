@@ -4,4 +4,12 @@ title: "Three-Squared"
 
 This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+1.  What made you apply to MDS?
+
+Answers:
+
+-- Afrah:
+
+--Atinuke:
+
+-- Sravan:
