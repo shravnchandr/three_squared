@@ -6,6 +6,7 @@ output: revealjs::revealjs_presentation
 format: revealjs
 ---
 
+
 # LAB 3 - 521
 
 Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra
@@ -29,6 +30,6 @@ Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra
 - Atinuke says, "The first piece of code I ever wrote was a print with Hello World! which simply printed Hello World"
 
 ## 04. What is one recommendation for the class: a book, an album, a film, a restaurant, a trail, anything?
-- Shravan says,
+- Shravan says, "HW"
 - Afrah says,
 - Atinuke says, "I recommend the book, Dream Count, by Chimamanda Adichie. It's my current read!"
