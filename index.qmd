@@ -1,6 +1,9 @@
-------------------------------------------------------------------------
-
-title: "Group Project - Slides" author: Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra date: September 14, 2026 output: revealjs::revealjs_presentation ---
+---
+title: "Group Project - Slides" 
+author: Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra 
+date: September 14, 2026 
+output: revealjs::revealjs_presentation 
+---
 
 # LAB 3 - 521
 
@@ -20,6 +23,11 @@ Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra
 
 ## 03. What is the first piece of code you ever wrote, and what did it do?
 
-- Shravan says,"HW"
+- Shravan says,
 - Afrah says, The first piece of code I wrote was in C language "Hello Afrah".
 - Atinuke says, "The first piece of code I ever wrote was a print with Hello World! which simply printed Hello World"
+
+## 04. What is one recommendation for the class: a book, an album, a film, a restaurant, a trail, anything?
+- Shravan says,
+- Afrah says,
+- Atinuke says,
