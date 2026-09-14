@@ -8,7 +8,7 @@ This is a Quarto website.
 
 Answers:
 
--- Afrah:
+-- Afrah: Wanted to learn about data transformations and to understand and learn about usage of data to get business insights.
 
 --Atinuke:
 
