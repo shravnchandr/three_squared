@@ -25,7 +25,7 @@ Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra
 
 ## 03. What is the first piece of code you ever wrote, and what did it do?
 
-- Shravan says, "soduko solved with my friend in first year of undergrad"
+- Shravan says, "soduko solver with my friend in first year of undergrad"
 - Afrah says, The first piece of code I wrote was in C language "Hello Afrah".
 - Atinuke says, "The first piece of code I ever wrote was a print with Hello World! which simply printed Hello World"
 
