@@ -35,3 +35,8 @@ Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra
 - **Shravan**: Random Access Memories by Daft Punk
 - Afrah says,
 - Atinuke says, "I recommend the book, Dream Count, by Chimamanda Adichie. It's my current read!"
+
+
+## Error Screenshot - Shravan (CWL: cshravan)
+
+![Error Screenshot](images/cshravan.png){width=250px fig-align="center"}
