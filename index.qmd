@@ -42,3 +42,5 @@ Atinuke Oluwayemisi Wole-Ilori, Afrah Zilani & Shravan Chandra
 ![Error Screenshot](images/cshravan.png){width=250px fig-align="center"}
 
 ## Personal Page - Atinuke Wole-Ilori (CWL: awi)
+
+![Error Screenshot](images/awi.png){width=250px fig-align="center"}
