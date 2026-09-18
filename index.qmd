@@ -11,7 +11,7 @@ format: revealjs
 
 # LAB 3 - 521
 
-Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra
+Atinuke Oluwayemisi Wole-Ilori, Afrah Zilani & Shravan Chandra
 
 ## 01. What made you apply to MDS?
 
