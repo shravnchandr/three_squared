@@ -2,18 +2,25 @@
 
 title: "Group Project - Slides" author: Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra date: September 14, 2026 output: revealjs::revealjs_presentation ---
 
+
+
 # LAB 3 - 521
 
-Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra
+Atinuke Oluwayemisi Wole-Ilori, Afrah Zilani & Shravan Chandra
 
 ## 01. What made you apply to MDS?
 
+<<<<<<< HEAD
 - Shravan says,
+=======
+- **Shravan**: Because of the 10 months intensive nature of the program, where 2 years is consolidated into 10 months 
+>>>>>>> 9077cd51ce16e50bed530ca7fca8696bc5f8c905
 - Afrah says, Wanted to learn about data transformations and to understand and learn about usage of data to get business insights.
-- Atinuke says, "I applied to MDS to gain skills to manipulate and make sense out of data that can be applied in the real world!"
+- **Atinuke:** "I applied to MDS to gain skills to manipulate and make sense out of data that can be applied in the real world!"
 
 ## 02. What is a skill you have that has nothing to do with data science?
 
+<<<<<<< HEAD
 - Shravan says,
 - Afrah says, I can play 8 ball pool and Table tennis.
 - Atinuke says, "I'm able to play multiple musical instruments!"
@@ -21,9 +28,34 @@ Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra
 ## 03. What is the first piece of code you ever wrote, and what did it do?
 
 - Shravan says,
-- Afrah says, The first piece of code I wrote was in C language "Hello Afrah".
-- Atinuke says, "The first piece of code I ever wrote was a print with Hello World! which simply printed Hello World"
+=======
+- **Shravan**: traveling, cooking, exploring 
+- Afrah says, I can play 8 ball pool and Table tennis. 
+- **Atinuke:** "I'm able to play multiple musical instruments!"
 
+## 03. What is the first piece of code you ever wrote, and what did it do?
+
+- **Shravan**: sudoku solver with my friend in first year of undergrad 
+>>>>>>> 9077cd51ce16e50bed530ca7fca8696bc5f8c905
+- Afrah says, The first piece of code I wrote was in C language "Hello Afrah".
+- **Atinuke:** "The first piece of code I ever wrote was a print with Hello World! which simply printed Hello World"
+
+<<<<<<< HEAD
 ## **0.4 What is one recommendation for the class: a book, an album, a film, a restaurant, a trail, anything?**
 
 ans) afrah, reocmmedsssss
+=======
+## 04. What is one recommendation for the class: a book, an album, a film, a restaurant, a trail, anything?
+- **Shravan**: Random Access Memories by Daft Punk
+- Afrah says,
+- **Atinuke:** "I recommend the Asa album by Asa on a nice rainy day."
+
+
+## Error Screenshot - Shravan (CWL: cshravan)
+
+![Error Screenshot](images/cshravan.png){width=250px fig-align="center"}
+
+## Personal Page - Atinuke Wole-Ilori (CWL: awi)
+
+![Error Screenshot](images/awi.png){width=250px fig-align="center"}
+>>>>>>> 9077cd51ce16e50bed530ca7fca8696bc5f8c905
