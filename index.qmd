@@ -38,6 +38,6 @@ Atinuke Oluwayemisi Wole-Ilori, Afrah Zilani & Shravan Chandra
 
 ![Error Screenshot](images/awi.png){width="250px" fig-align="center"}
 
-## Error Screenshot - Afrah
+## Error Screenshot - Afrah (CWL: afrahz)
 
 ![](images/clipboard-55417279.png)
