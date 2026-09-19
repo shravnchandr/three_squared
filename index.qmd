@@ -1,6 +1,9 @@
----
+----
 
-title: "Group Project - Slides" author: Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra date: September 14, 2026 output: revealjs::revealjs_presentation
+title: "Group Project - Slides" 
+author: Atinuke Wole-Ilori, Afrah Zilani & Shravan Chandra 
+date: September 14, 2026 
+output: revealjs::revealjs_presentation
 
 ---
 
@@ -42,4 +45,4 @@ Atinuke Oluwayemisi Wole-Ilori, Afrah Zilani & Shravan Chandra
 
 ## Error Screenshot - Afrah (CWL: afrahz)
 
-![](images/clipboard-55417279.png)
+![Error Screenshot](images/afrahz.png){width="250px" fig-align="center"}
